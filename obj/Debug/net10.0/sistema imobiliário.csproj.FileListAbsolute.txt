@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\bin\Debug\net10.0\sistema imobiliário.exe
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\bin\Debug\net10.0\sistema imobiliário.deps.json
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\bin\Debug\net10.0\sistema imobiliário.runtimeconfig.json
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\bin\Debug\net10.0\sistema imobiliário.dll
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\bin\Debug\net10.0\sistema imobiliário.pdb
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\sistema imobiliário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\sistema imobiliário.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\sistema imobiliário.AssemblyInfo.cs
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\sistema imobiliário.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\sistema imobiliário.dll
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\refint\sistema imobiliário.dll
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\sistema imobiliário.pdb
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\sistema imobiliário.genruntimeconfig.cache
+C:\Users\mathe\OneDrive - sga.pucminas.br\Terceiro Período\Programação Orientada a Objetos\sistema imobiliário\obj\Debug\net10.0\ref\sistema imobiliário.dll
